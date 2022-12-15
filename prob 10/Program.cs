@@ -31,7 +31,7 @@ class Ex1
                 if (action[0].ToUpper() == "END")
                 {
                     Console.WriteLine();
-                    break; // завершення вводу
+                    break; // завершення вводу.
                 }
                 else if (action.Length >= 3)
                 {
